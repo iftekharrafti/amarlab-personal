@@ -1,0 +1,10 @@
+.footer{
+    text-align: center;
+    margin: 25px 0;
+}
+.footer p{
+    font-size: 14px;
+}
+.footer p span {
+    color: red;
+}

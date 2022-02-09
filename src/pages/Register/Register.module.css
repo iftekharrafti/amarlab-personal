@@ -1,0 +1,27 @@
+.top {
+  text-align: center;
+  margin: 50px 0;
+}
+.registerTitle {
+  font-size: 50px;
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #00cf5d;
+}
+.registerForm {
+  background-color: rgba(52, 58, 64, 0.4);
+  padding: 40px 60px;
+  border-radius: 10px;
+}
+
+.registerSubmit {
+  display: flex;
+  margin: 0 auto;
+  padding: 8px 15px;
+  background: #f57224;
+  color: white;
+  outline: none;
+  border: 1px solid #f57224;
+  border-radius: 5px;
+  margin-top: 15px;
+}

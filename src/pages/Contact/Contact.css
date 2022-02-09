@@ -1,0 +1,54 @@
+.contact h2 {
+    text-align: center;
+    margin: 40px 0;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.contact span {
+    color: #00cf5d;
+}
+.contact h4,h5{
+    color: #00cf5d;
+}
+.contact h4{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.contact .row{
+    justify-content:center;
+    align-items:center;
+}
+.contact-form input,textarea {
+    border-radius: 20px;
+    background-color:#111a28;
+    resize: none;
+    color: #fff;
+}
+.contact-form textarea {
+    color: #fff;
+    background-color: #111a28;
+}
+.contact-form input:focus, textarea:focus{
+    background-color: #1a1a1a !important;
+    color: #fff;
+}
+.contact-form textarea:focus{
+    color: #fff !important;
+}
+.full-address p{
+    color: #d8c7c7;
+}
+.full-address .fas{
+    color: #00cf5d;
+    font-size: 20px;
+    margin-right: 10px;
+}
+.connect-icon .fab{
+    font-size: 20px;
+    color: #fff;
+    background: #00cf5d;
+    padding: 8px;
+    margin-right: 7px;
+    border-radius: 50%;
+}
