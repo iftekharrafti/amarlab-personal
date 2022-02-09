@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Main Core Concept You Need to Know About React",
+        "description": "ReactJS is an open-source JavaScript library that helps developers create a top user interface for both mobile and web applications. It feasibly integrates with other JS libraries and frameworks and comprises standalone, small bits of code, named Components. You can use these components to create some awesome apps.",
+        "img":"https://i.ibb.co/k6v9Wcd/blog-1.png"
+    },
+    {
+        "id": 2,
+        "title": "JavaScript Code Style",
+        "description": "Countless hours have been spent by developers throughout the years arguing over single vs. double quotes, where to put brackets, how many spaces to type, and all kinds of other cosmetic code style questions. These are all questions that have at best a tangential relationship to code quality, but are very easy to have opinions about because they are so visual.",
+        "img":"https://i.ibb.co/ZHQwycQ/blog-2.png"
+    },
+    {
+        "id": 3,
+        "title": "JavaScript Strings:-",
+        "description": "Strings are useful for holding data that can be represented in text form. Some of the most-used operations on strings are to check their length, to build and concatenate them using the + and += string operators, checking for the existence or location of substrings with the indexOf() method, or extracting substrings with the substring() method.",
+        "img":"https://i.ibb.co/f9vy42f/blog-3.png"
+    },
+    {
+        "id": 4,
+        "title": "Some important things you need to know about JavaScript",
+        "description": "No doubt about it JavaScript is absolutely essential for any web developer. Gone are the days when you could get by with a little CSS and HTML.Thats it! Many simple tasks can be accomplished with just a few lines of code. Theres no need to import packages, or declare namespaces. You write some code, and it runs. However, the very lack of structure that gives JavaScript its low barrier to entry also enables beginning developers to write unstructured, fragile code without realizing it.",
+        "img":"https://blog.logrocket.com/wp-content/uploads/2021/03/javascript-php-developers.png"
+    },
+    {
+        "id": 5,
+        "title": "How to create simple personal website",
+        "description": "Consider the theme and purpose of your personal website. You might want a space to blog about your travels or somewhere to publish your creative writing. Or, you may want a platform to promote your burgeoning baking business, a channel to land more clients as a freelance web designer, or a copywriting portfolio that will help you land a new full-time gig. ",
+        "img":"https://i.ibb.co/VS5HGbR/blog-post-4-8f16ffe7.jpg"
+    },
+    {
+        "id": 6,
+        "title": "What Is React?",
+        "description": "React is a JavaScript-based UI development library. Facebook and an open-source developer community run it. Although React is a library rather than a language, it is widely used in web development. The library first appeared in May 2013 and is now one of the most commonly used frontend libraries for web development.React offers various extensions for entire application architectural support, such as Flux and React Native, beyond mere UI. ",
+        "img":"https://i.ibb.co/VS5HGbR/blog-post-4-8f16ffe7.jpg"
+    }
+]

@@ -1,0 +1,36 @@
+.navbar{
+    background-color: #111a28;
+    padding: 1rem 1rem;
+    position: sticky;
+}
+.navbar .navbar-brand{
+    display: block;
+    font-size: 25px;
+    color: #00cf5d;
+    font-family: 'Lora', serif;
+}
+.navbar-toggler{
+    background: #00cf5d;
+    border: none;
+    padding: 10px 6px;
+    outline: none;
+}
+.navbar-toggler span{
+    display: block;
+    width:22px;
+    height: 2px;
+    border: 1px;
+    background: #fff;
+}
+.navbar-toggler span + span{
+    margin-top: 4px;
+    width:18px;
+    margin-left: 4px;
+}
+.navbar-toggler span + span + span{
+    width:10px;
+    margin-left: 10px;
+}
+.nav-item .nav-link{
+    color: #fff;
+}
