@@ -1,0 +1,8 @@
+.cardTitleBlog{
+    font-size: 20px;
+    color: #fff;
+}
+.blogImg{
+    object-fit: cover;
+    height: 180px;
+}

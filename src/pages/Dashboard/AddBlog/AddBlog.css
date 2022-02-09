@@ -1,0 +1,24 @@
+.addBlog .input-group{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.addBlog label{
+    width: 30%;
+}
+
+.addBlog input{
+    width: 70%;
+    padding:8px;
+}
+.input-submit{
+    width:200px;
+    text-align: center;
+}
+
+th, td{
+    color:#fff;
+}
+.delete, .edit{
+    cursor: pointer;
+}

@@ -1,0 +1,53 @@
+.about-me h2 {
+    text-align: center;
+    margin: 80px 0;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.about-me h2 span {
+    color: #00cf5d;
+}
+.about-me h3{
+    text-align: center;
+}
+.about-me h3{
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+.about-me p{
+    color: #d8c7c7;
+}
+.about-me p span{
+    font-weight: 600;
+}
+.about-me a{
+    margin-top:15px;
+}
+.card-about{
+    background: #111a28;
+    border: 2px solid gray;
+    box-shadow: rgba(0, 207, 93, 0.4) 5px 5px, rgba(0, 207, 93, 0.3) 10px 10px, rgba(0, 207, 93, 0.2) 10px 10px, rgba(0, 207, 93, 0.1) 20px 20px, rgba(0, 207, 93, 0.05) 25px 25px;
+    margin-bottom: 60px;
+}
+.card-title{
+    font-size: 35px;
+    color: rgb(0, 207, 93);
+    font-weight: 800;
+}
+
+.follow-me p{
+    font-size: 25px;
+    font-weight: 600;
+}
+.follow-me a{
+    margin-left: 20px;
+}
+.follow-me .fab{
+    color: #fff !important;
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+.follow-me .github{
+    margin-left: 0;
+}
